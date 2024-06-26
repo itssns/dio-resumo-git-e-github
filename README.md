@@ -1,5 +1,5 @@
 
-## RESUMOS GIT E GITHU
+## RESUMOS GIT E GITHUB
 
 Repositório para armazenar resumos sobre Git e Github do curso de código Git e Github [Digital Inovation Onne](https://www.dio.me/)
 
